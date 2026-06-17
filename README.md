@@ -8,6 +8,6 @@ It generates sentences by combining subjects, verbs, objects, and adverbs.
 The goal is to help beginners understand how computers can create human-like text using basic programming concepts.
 
 OUTPUT
-<img width="1065" height="755" alt="Screenshot 2026-03-24 230043" src="https://github.com/user-attachments/assets/ff9b4713-a142-4bea-a2d5-89587800c3af" />
+<img width="832" height="345" alt="Screenshot 2026-06-17 102705" src="https://github.com/user-attachments/assets/0b5bca5d-1f1b-4c26-901d-e3731671f270" />
 
 
