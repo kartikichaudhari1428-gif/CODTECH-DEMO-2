@@ -1,5 +1,13 @@
 Intern ID : CITS2335
 
+Name : Kartiki Sandip Chaudhari
+
+No.of Weeks : 8 Weeks
+
+Project Name : Natural Language Generator
+
+Project Scope : Educational purpose
+
 
 # CODTECH-DEMO-2
 
